@@ -1,21 +1,30 @@
-<p align="center">Cheats made by someone who knows more about what they're doing</p>
 
-# We have:
+# Goofy Hacks!
 
-Blooket
+A place of hacks
 
-Edpuzzle
+## Support
 
-IReady
+- Blooket
 
-Quizizz
+## Features
 
+- Gold Quest
+- TD 2
+- TD 1
+- Battle Royale
+- Monster Brawl
+- Tower of Doom
+- Crypto Hack
+- Blook Rush
+- Candy Quest
+- Santa's Workshop
+- Racing
+- Fishing Frenzy
+- Cafe
+- Factory
+- Crazy Kingdom
 
-# Information
+## Feedback
 
-<details><summary><h3>How to use</h3></summary>
-
-How to use these scripts:
-1. Create a Bookmark
-2. Paste the script in the address
-</details>
+If you have any feedback, please reach out to me on Discord.
